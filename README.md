@@ -38,7 +38,7 @@ python3 Hasher.py
 # Termux
 ![Hasher](https://github.com/RedMads/Hasher/blob/main/images/termux.png)
 
-# install for Termux
+## install for Termux
 ***
 ```
 pkg update && pkg upgrade

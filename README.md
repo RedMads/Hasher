@@ -30,8 +30,9 @@ sudo apt update && apt upgrade
 git clone https://github.com/RedMads/Hasher.git
 
 cd Hasher
-```
+
 python3 Hasher.py
+```
 ***
 
 # Termux
@@ -39,6 +40,7 @@ python3 Hasher.py
 
 # install for Termux
 ***
+```
 pkg update && pkg upgrade
 
 git clone https://github.com/RedMads/Hasher.git
@@ -46,6 +48,7 @@ git clone https://github.com/RedMads/Hasher.git
 cd Hasher
 
 python3 Hasher.py
+```
 ***
 
 

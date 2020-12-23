@@ -2,7 +2,7 @@
 simple tool enables hash from list and save in another list (10m in 10 Sec!)
 
 # Features
-
+***
 simple CLI
 12 types of hashs
 speed hashing!
@@ -10,7 +10,7 @@ runtime count
 colorful menus
 
 git clone and discover more!
-
+***
 
 
 

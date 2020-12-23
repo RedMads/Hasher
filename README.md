@@ -1,3 +1,3 @@
-Welcome to Hasher!
+#Hasher
+Simple Hashing tool with 12 of hashs type!
 
-make sure include your words inside words.txt

@@ -7,3 +7,8 @@ Simple Hashing tool with 12 of hashs type!
 ![Hasher](https://github.com/RedMads/Hasher/blob/main/images/terminal.png)
 
 
+# commands for terminal
+sudo apt update && apt upgrade
+git clone 
+
+

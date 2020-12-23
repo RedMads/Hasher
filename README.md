@@ -22,7 +22,7 @@ git clone and discover more!
 ![Hasher](https://github.com/RedMads/Hasher/blob/main/images/terminal.png)
 
 
-### install for Terminal
+## install for Terminal
 ***
 ```
 sudo apt update && apt upgrade

@@ -23,7 +23,7 @@ git clone and discover more!
 ![Hasher](https://github.com/RedMads/Hasher/blob/main/images/terminal.png)
 
 
-# commands for Terminal
+# install for Terminal
 ***
 sudo apt update && apt upgrade
 
@@ -37,7 +37,7 @@ python3 Hasher.py
 # Termux
 ![Hasher](https://github.com/RedMads/Hasher/blob/main/images/termux.png)
 
-# commands for Termux
+# install for Termux
 ***
 pkg update && pkg upgrade
 

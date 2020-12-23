@@ -1,5 +1,16 @@
 # Hasher
-Simple Hashing tool with 12 of hashs type!
+simple tool enables hash from list and save in another list (10m in 10 Sec!)
+
+# Features
+
+simple CLI
+12 types of hashs
+speed hashing!
+runtime count
+colorful menus
+
+git clone and discover more!
+
 
 
 
@@ -19,7 +30,7 @@ python3 Hasher.py
 # Termux
 ![Hasher](https://github.com/RedMads/Hasher/blob/main/images/termux.png)
 
-#commands for Termux
+# commands for Termux
 pkg update && pkg upgrade
 
 git clone https://github.com/RedMads/Hasher.git

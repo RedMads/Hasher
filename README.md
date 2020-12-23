@@ -1,6 +1,7 @@
 # Hasher
+***
 simple tool enables hash from list and save in another list (10m in 10 Sec!)
-
+***
 # Features
 ***
 simple CLI
@@ -23,6 +24,7 @@ git clone and discover more!
 
 
 # commands for Terminal
+***
 sudo apt update && apt upgrade
 
 git clone https://github.com/RedMads/Hasher.git
@@ -30,11 +32,13 @@ git clone https://github.com/RedMads/Hasher.git
 cd Hasher
 
 python3 Hasher.py
+***
 
 # Termux
 ![Hasher](https://github.com/RedMads/Hasher/blob/main/images/termux.png)
 
 # commands for Termux
+***
 pkg update && pkg upgrade
 
 git clone https://github.com/RedMads/Hasher.git
@@ -42,5 +46,6 @@ git clone https://github.com/RedMads/Hasher.git
 cd Hashr
 
 python3 Hashr.py
+***
 
 

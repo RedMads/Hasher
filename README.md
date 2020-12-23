@@ -24,12 +24,13 @@ git clone and discover more!
 
 # install for Terminal
 ***
+```
 sudo apt update && apt upgrade
 
 git clone https://github.com/RedMads/Hasher.git
 
 cd Hasher
-
+```
 python3 Hasher.py
 ***
 

@@ -1,4 +1,4 @@
-# Hasher
+# What is Hasher?
 ***
 simple tool enables hash from list and save results in another list (10m in 10 Sec!)
 ***
